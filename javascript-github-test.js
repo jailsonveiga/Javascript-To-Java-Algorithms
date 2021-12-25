@@ -1,1 +1,3 @@
-console.log("Just Checking My Git Connections");
+let renameFolder = "Rename";
+
+console.log(renameFolder + "Folder!!");
