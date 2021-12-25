@@ -1,4 +1,5 @@
 // Multiple of 100
+// https://edabit.com/challenge/KnRj8TSD63JBpzDfi
 
 public class Challenje {
     public static void main(String[] args) {
