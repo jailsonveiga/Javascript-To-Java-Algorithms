@@ -6,6 +6,7 @@ public class ItsTheNumberEvenOrOdd {
         System.out.println("Is the number even or odd (3) -> " + isEvenOrOdd(3));
         System.out.println("Is the number even or odd (126) -> " + isEvenOrOdd(126));
         System.out.println("Is the number even or odd (19) -> " + isEvenOrOdd(19));
+        System.out.println("Is the number even or odd (1) -> " + isEvenOrOdd(1));
     }
     public static String isEvenOrOdd(int num) {
         if(num % 2 == 0) {
