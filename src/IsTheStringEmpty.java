@@ -6,6 +6,7 @@ public class IsTheStringEmpty {
         System.out.println("Returns true if a string is empty and false otherwise -> ('') " + isEmpty(""));
         System.out.println("Returns true if a string is empty and false otherwise -> (' ') " + isEmpty(" "));
         System.out.println("Returns true if a string is empty and false otherwise -> ('a') " + isEmpty("a"));
+        System.out.println("Returns true if a string is empty and false otherwise -> ('ad') " + isEmpty("ad"));
     }
     public static boolean isEmpty(String str){
         if(str == "") {
